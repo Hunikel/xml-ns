@@ -12,7 +12,7 @@ import com.test.pkg.Animal;
 
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "Document", namespace = "namespace1")
-@XmlRootElement(name = "Document", namespace = "namespace1")
+@XmlRootElement(name = "Zoo", namespace = "namespace1")
 public class Zoo implements Serializable{
 	
 	/**

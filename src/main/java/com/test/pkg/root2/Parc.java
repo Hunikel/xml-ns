@@ -12,7 +12,7 @@ import org.w3c.dom.Element;
 
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "Document", namespace = "namespace2")
-@XmlRootElement(name = "Document", namespace = "namespace2")
+@XmlRootElement(name = "Parc", namespace = "namespace2")
 public class Parc implements Serializable{
 
 	/**
